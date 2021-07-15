@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_LogicLoops\Hamilton_Tevin_LogicLoops\bin\Debug\Hamilton_Tevin_LogicLoops.exe.config
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_LogicLoops\Hamilton_Tevin_LogicLoops\bin\Debug\Hamilton_Tevin_LogicLoops.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_LogicLoops\Hamilton_Tevin_LogicLoops\bin\Debug\Hamilton_Tevin_LogicLoops.pdb
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_LogicLoops\Hamilton_Tevin_LogicLoops\obj\Debug\Hamilton_Tevin_LogicLoops.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_LogicLoops\Hamilton_Tevin_LogicLoops\obj\Debug\Hamilton_Tevin_LogicLoops.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_LogicLoops\Hamilton_Tevin_LogicLoops\obj\Debug\Hamilton_Tevin_LogicLoops.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_LogicLoops\Hamilton_Tevin_LogicLoops\obj\Debug\Hamilton_Tevin_LogicLoops.pdb
